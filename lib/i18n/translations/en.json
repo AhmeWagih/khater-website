@@ -1,0 +1,121 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero": {
+      "title": "Creative Digital Solutions",
+      "subtitle": "Building innovative web experiences",
+      "cta": "Get Started"
+    },
+    "intro": {
+      "title": "We Create Digital Experiences",
+      "description": "Our team of experts combines creativity and technology to deliver stunning websites and applications that drive results.",
+      "stats": {
+        "clients": "Happy Clients",
+        "projects": "Projects Completed",
+        "awards": "Awards Won",
+        "experience": "Years Experience"
+      }
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Who We Are",
+    "description": "We are a team of passionate designers, developers, and strategists who love crafting beautiful digital experiences. Founded in 2015, we've helped hundreds of clients achieve their goals through innovative solutions.",
+    "mission": {
+      "title": "Our Mission",
+      "description": "To empower businesses with cutting-edge digital solutions that drive growth and create meaningful connections with their audience."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "To be the leading digital agency, recognized for creativity, innovation, and delivering exceptional value to our clients."
+    },
+    "values": {
+      "title": "Our Values",
+      "items": {
+        "excellence": "Excellence",
+        "innovation": "Innovation",
+        "integrity": "Integrity",
+        "collaboration": "Collaboration"
+      }
+    },
+    "team": {
+      "title": "Meet Our Team",
+      "subtitle": "The talented people behind our success"
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "What We Offer",
+    "description": "We provide comprehensive digital solutions tailored to your specific needs.",
+    "items": {
+      "webDevelopment": {
+        "title": "Web Development",
+        "description": "Custom websites built with the latest technologies, designed to perform and impress."
+      },
+      "uiDesign": {
+        "title": "UI/UX Design",
+        "description": "Intuitive and engaging user experiences that keep your customers coming back."
+      },
+      "digitalMarketing": {
+        "title": "Digital Marketing",
+        "description": "Strategic marketing campaigns that increase visibility and drive conversions."
+      },
+      "mobileDevelopment": {
+        "title": "Mobile Development",
+        "description": "Native and cross-platform mobile applications that work flawlessly across devices."
+      },
+      "eCommerce": {
+        "title": "E-Commerce Solutions",
+        "description": "Robust online stores that provide seamless shopping experiences and boost sales."
+      },
+      "contentStrategy": {
+        "title": "Content Strategy",
+        "description": "Compelling content that tells your story and connects with your audience."
+      }
+    }
+  },
+  "portfolio": {
+    "title": "Our Portfolio",
+    "subtitle": "Recent Projects",
+    "description": "Explore our latest work and see how we've helped our clients achieve their goals.",
+    "categories": {
+      "all": "All",
+      "web": "Web Design",
+      "mobile": "Mobile Apps",
+      "branding": "Branding",
+      "ecommerce": "E-Commerce"
+    },
+    "viewProject": "View Project"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get In Touch",
+    "description": "Have a project in mind? Let's talk about how we can help.",
+    "form": {
+      "name": "Your Name",
+      "email": "Your Email",
+      "phone": "Phone Number",
+      "subject": "Subject",
+      "message": "Your Message",
+      "submit": "Send Message"
+    },
+    "info": {
+      "address": "Address",
+      "email": "Email",
+      "phone": "Phone",
+      "followUs": "Follow Us"
+    }
+  },
+  "footer": {
+    "copyright": "© 2025 Your Company. All rights reserved.",
+    "rights": "All Rights Reserved",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  }
+}
