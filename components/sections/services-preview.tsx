@@ -15,19 +15,19 @@ export default function ServicesPreview() {
       id: "web-development",
       title: t("services.items.webDevelopment.title"),
       description: t("services.items.webDevelopment.description"),
-      icon: "code",
+      icon: "🌐",
     },
     {
       id: "ui-design",
       title: t("services.items.uiDesign.title"),
       description: t("services.items.uiDesign.description"),
-      icon: "layout",
+      icon: "🎨",
     },
     {
       id: "digital-marketing",
       title: t("services.items.digitalMarketing.title"),
       description: t("services.items.digitalMarketing.description"),
-      icon: "trending-up",
+      icon: "📈",
     },
   ];
 
